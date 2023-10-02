@@ -12,16 +12,17 @@ class powers:
         self.val = v               
 
 
-# Create a list that we can store instances in
-numbers = []
+# Create a dictionary that we can store instances in
+numbers = {}
 
 # Instantiate 10 instances
-for i in range(10):
-    numbers.append( powers(i) )
+namedIndexes = [5,10,15,20]
+for i in namedIndexes:
+    numbers[i] = powers(i)
 
-print(f"We now have {len(numbers)} instances stored in our table.\n")
+print(f"We now have {len(numbers)} instances stored in our dictionary.\n")
 
 print("Instance Data:")
 print("**************")
-for i in range(10):
+for i in numbers:
     print(f"instance with index:{i} > number:{numbers[i].val} and square:{numbers[i].square()}")

@@ -23,5 +23,5 @@ print(f"We now have {len(numbers)} instances stored in our table.\n")
 
 print("Instance Data:")
 print("**************")
-for i in range(10):
-    print(f"instance with index:{i} > number:{numbers[i].val} and square:{numbers[i].square()}")
+for i in numbers:
+    print(f"instance with index:{i} > number:{i.val} and square:{i.square()}")
