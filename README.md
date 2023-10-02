@@ -26,6 +26,23 @@ Extension:
 * Assume t1 in each dictionary is the home team.  Keep track of home/away in your game record
 
 ##### Task 2
+Mean and Standard Deviation
+You may be familiar with the concept of the mean.  This is the same as the average that you have calculated for your marks in school, but the standard deviation may be a new idea to you.  Access the following resources to determine what is meant by the standard deviation and how to calculate it.
+**What are mean and standard deviation?**
+You may want to access the following resources:
+Definitions of Mean and Standard Deviation: 
+https://www.youtube.com/watch?v=MRqtXL2WX2M
+https://www.scribbr.com/statistics/standard-deviation/
+https://www.dummies.com/article/academics-the-arts/math/statistics/standard-deviation-and-variance-147351/
+
+How to calculate mean and standard deviation:
+https://bit.ly/3LLOPsB
+https://www.youtube.com/watch?v=WVx3MYd-Q9w
+https://www.scribbr.com/statistics/standard-deviation/
+
+Determine the mean and standard deviations for the data sets.  This practice for a more complicated problem in task 3.
+
+##### Task 3
 Create a database to keep track of random monsters in a game
 Use the existing template as a guide and populate a list:
 
@@ -44,18 +61,6 @@ Generate a report that shows the distribution of NPC's by level
 Generatea a report that shows the mean and standard deviation for the following:
 * HP
 * Wealth (in copper. For example 2 gold, 3 silver and 4 copper has a wealth of 234)
-What are mean and standard deviation?
-
-You may want to access the following resources:
-Definitions of Mean and Standard Deviation: 
-https://www.youtube.com/watch?v=MRqtXL2WX2M
-https://www.scribbr.com/statistics/standard-deviation/
-https://www.dummies.com/article/academics-the-arts/math/statistics/standard-deviation-and-variance-147351/
-
-How to calculate mean and standard deviation:
-https://bit.ly/3LLOPsB
-https://www.youtube.com/watch?v=WVx3MYd-Q9w
-https://www.scribbr.com/statistics/standard-deviation/
 
 
 
